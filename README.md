@@ -1,4 +1,6 @@
-Hello, My Friends  
+
+Hello, Friends
+You can check out my website through this link https://travelweb2.herokuapp.com/
 Thank you for Having interest in this repository ! 
 
 To use this application, 
